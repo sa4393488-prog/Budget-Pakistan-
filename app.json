@@ -1,9 +1,21 @@
 {
-  "expo": {
-    "name": "Budget Pakistan",
-    "slug": "budget-pakistan",
-    "android": {
-      "package": "com.sa4393488.budgetpakistan"
+  "name": "Budget Pakistan",
+  "slug": "budget-pakistan",
+  "version": "1.0.0",
+  "extra": {
+    "eas": {
+      "projectId": "یہاں اپنا Project ID پیسٹ کریں"
     }
-  }
+  },
+  "android": {
+    "package": "com.sa4393488.budgetpakistan"
+  },
+  "ios": {
+    "bundleIdentifier": "com.sa4393488.budgetpakistan"
+  },
+  "sdkVersion": "51.0.0",
+  "platforms": [
+    "ios",
+    "android"
+  ]
 }
