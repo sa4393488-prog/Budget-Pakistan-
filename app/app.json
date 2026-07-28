@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Budget Pakistan",
+    "slug": "budget-pakistan",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.sa4393488.budgetpakistan"
+    },
+    "ios": {
+      "bundleIdentifier": "com.sa4393488.budgetpakistan"
+    }
+  }
+}
