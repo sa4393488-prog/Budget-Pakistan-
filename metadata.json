@@ -1,0 +1,8 @@
+{
+  "name": "Remix Budget Pakistan",
+  "description": "Personal finance, expense tracking, monthly budget manager, and income planner tailored for Pakistan with PKR (₨) currency support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
