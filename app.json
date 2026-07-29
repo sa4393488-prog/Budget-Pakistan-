@@ -1,5 +1,21 @@
 {
-  "expo": {sa4393488
+  "expo": {
     "owner": "sa4393688",
     "name": "Budget Pakistan",
-    ...
+    "slug": "budget-pakistan",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.sa4393688.budgetpakistan"
+    },
+    "ios": {
+      "bundleIdentifier": "com.sa4393688.budgetpakistan"
+    },
+    "sdkVersion": "51.0.0",
+    "platforms": ["ios", "android"],
+    "extra": {
+      "eas": {
+        "projectId": "035d57ad-0f76-42e9-8f89-f2344db670c9"
+      }
+    }
+  }
+}
